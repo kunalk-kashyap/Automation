@@ -31,6 +31,7 @@ public class HomePageTest extends BaseTest {
 		boolean expected=true;
 		Assert.assertEquals(actual, expected,"login button is not clickable----");
 		System.out.println("-----login button is clickable----");
+		System.out.println("testcase 1 completed");
 	}
 	
 	@AfterMethod
