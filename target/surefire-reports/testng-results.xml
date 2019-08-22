@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22932" started-at="2019-08-22T15:34:38Z" finished-at="2019-08-22T15:35:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22932" started-at="2019-08-22T15:34:38Z" finished-at="2019-08-22T15:35:01Z">
+      <class name="com.qa.TestScript.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestScript.HomePageTest@62043840]" name="setUp" is-config="true" duration-ms="15240" started-at="2019-08-22T15:34:38Z" finished-at="2019-08-22T15:34:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginButtonEnableTest()[pri:0, instance:com.qa.TestScript.HomePageTest@62043840]" name="loginButtonEnableTest" duration-ms="6898" started-at="2019-08-22T15:34:53Z" finished-at="2019-08-22T15:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginButtonEnableTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestScript.HomePageTest@62043840]" name="tearDown" is-config="true" duration-ms="738" started-at="2019-08-22T15:35:00Z" finished-at="2019-08-22T15:35:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.TestScript.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
